@@ -127,7 +127,7 @@ class TheGame(ItemsFallingFromSky,ScoreBoard):
 
 
         self.parent.geometry("1024x650")
-        self.parent.title("911")
+        self.parent.title("Catch-The-Guy")
 
 
         self.canvas = Canvas(self.parent, width=800, height=600)
