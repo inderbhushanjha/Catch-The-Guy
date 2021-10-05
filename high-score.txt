@@ -1,1 +1,2 @@
+#Initial high score should be zero.
 0
